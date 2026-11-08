@@ -1,0 +1,21 @@
+# Keil uVision build outputs
+*.o
+*.d
+*.crf
+*.axf
+*.lnp
+*.sct
+*.dep
+*.build_log.htm
+*.map
+*.htm
+*.uvguix.*
+*.uvoptx.*
+DebugConfig/
+Listings/
+Objects/
+
+# Editor & OS files
+.vscode/
+Thumbs.db
+.DS_Store
